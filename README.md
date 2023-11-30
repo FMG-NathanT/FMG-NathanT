@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FMG-NathanT
-- ✈ My current role: Mining Systems Application Support Analyst which is site based. 
+- ✈ My current role: Mining Systems Application Support Analyst
 - 👀 I’m interested in back-end application dev and cyber security practices (Digital forensics and penetration testing). Keen to overall grow in knowledge in different technologies and architecture. 
 - 📫 You can reach me over at nathan.tucek@fortescue.com
 
